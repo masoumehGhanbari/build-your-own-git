@@ -6,7 +6,7 @@ theme: gaia
 paginate: true
 ---
 
-![bg center](cover.png)
+![bg center](./cover.webp)
 
 ---
 
